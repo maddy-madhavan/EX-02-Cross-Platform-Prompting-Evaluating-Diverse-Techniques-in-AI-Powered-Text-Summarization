@@ -1,7 +1,7 @@
 # EX-02: Cross-Platform Prompting — Evaluating Diverse Techniques in AI-Powered Text Summarization
 
-### Name: HARSHANA M V 
-### Reg No: 212224240053
+### Name: MADHAVAN K
+### Reg No: 212224220054
 
 ## Aim
 
